@@ -1,0 +1,5 @@
+id,platform,message,matches,flagged
+1,Telegram,Fresh MDMA 💊 — DM for price,"['mdma', '💊']",True
+2,Instagram,Party tonight? legit stuff only,['stuff'],True
+3,Telegram,"Best LSD tabs in city, quick drop",['lsd'],True
+5,Instagram,🔥 deal on party pills - limited,"['party pills', '🔥 deal']",True
